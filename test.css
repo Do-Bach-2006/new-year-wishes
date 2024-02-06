@@ -1,0 +1,117 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 200px;
+}
+
+body {
+    background-image: radial-gradient(#DC392F ,#89251B);
+    width: 100%;
+    height: 100vh;
+
+}
+
+.box
+{
+    height: 100px;
+    width: 100px;
+
+    position: relative;
+    top: 100%;
+    left: 50%;
+}
+
+#year
+{
+    font-family: 'Bungee Spice', sans-serif;
+    height: 30vh;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    position: absolute;
+    margin: auto;
+    justify-content: space-around;
+    top: 20%;
+}
+
+#year div
+{
+    font-size: 300px;
+}
+
+
+
+#wish_box
+{
+    width: 70%;
+    height: 50vh;
+    top: 50%;
+    background-color: rgba(255, 120, 37, 0.5);
+    border: 10px #FDBDA0 solid;
+    border-radius: 20px;
+    z-index: 3;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#wish_box p
+{
+
+    width: 0;
+    height: 0;
+    overflow: scroll;
+    font-family: 'Protest Revolution', sans-serif;
+    font-size: 60px;
+    color: #FDBDA0;
+    opacity: 1;
+    text-align: center;
+}
+
+img
+{
+    position: absolute;
+}
+
+#watermelon
+{
+    bottom: -20px;
+}
+
+#lucky_money
+{
+    right: 0;
+    top:45%;
+}
+
+#flower
+{
+    bottom: -20px;
+    right: 0;
+}
+
+#dragon
+{
+    top: 45%;
+}
+
+#title
+{
+    width: 100%;
+    height: 20vh;
+    position: absolute;
+}
+
+
+h1
+{
+    font-family: 'Protest Revolution', sans-serif;
+    text-align: center;
+    color: #FDBDA0;
+    font-size: 160px;
+}
