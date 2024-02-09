@@ -5,7 +5,7 @@ function openLink() {
 
     if( userName == '35#F144' )
     {
-        window.location.href = './test.html';
+        window.location.href = './troll.html';
     }
     else
     {
