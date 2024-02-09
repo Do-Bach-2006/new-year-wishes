@@ -10,10 +10,10 @@ function openLink() {
     {
         window.location.href = './troll.html';   
 
-        const troll_video = document.getElementById('troll_video');
-        troll_video.addEventListener('canplay', function() {
-            troll_video.play();
-        });
+        // const troll_video = document.getElementById('troll_video');
+        // troll_video.addEventListener('canplay', function() {
+        //     troll_video.play();
+        // });
     }
     else 
     {
