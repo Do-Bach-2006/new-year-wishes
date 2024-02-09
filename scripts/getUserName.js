@@ -1,8 +1,8 @@
 
 function openLink() {
     // Replace 'your-link.html' with the actual URL you want to open
-    window.location.href = './test.html';
     const userName = document.getElementById('user_input').value;
+    window.location.href = './test.html';
 
     sessionStorage.setItem('userName' , userName);
 }
