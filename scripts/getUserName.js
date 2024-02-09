@@ -2,7 +2,16 @@
 function openLink() {
     // Replace 'your-link.html' with the actual URL you want to open
     const userName = document.getElementById('user_input').value;
-    window.location.href = './test.html';
+
+    if( userName == '35#F144' )
+    {
+        window.location.href = './test.html';
+    }
+    else
+    {
+        window.location.href = './test.html';
+    }
+    
 
     sessionStorage.setItem('userName' , userName);
 }
