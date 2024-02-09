@@ -45,7 +45,7 @@ const theBoyWishes =
     `Chỗ bạn bè , không văn vở . Xin kính chúc mày một cái tết an lành bên gia đình và người thân , nhận đầy hồng ân của Chúa, thêm tuổi thêm khôn ngoan và bớt báo mọi người lại :))`,
     `May nay xamluz qua , anyway , xin chuc chu may mot cai tet vui ve , an lanh , ben gia dinh va nguoi than`,
     `Năm mới vui vẻ nhá , thằng nào ít tiền lì xì hơn thì bao kem :))`,
-    `Năm mới vui vẻ , chúc H  Anh hết bel , Chúc Vương hết suy , Quân mãi chad , Nhân hết gay , Trường hết là cậu trai cửa sổ , Hoàng hết gãy , Nhật acquy và Tiến đừng trở thành ông Xiển :)))`,
+    `Năm mới vui vẻ , chúc H  Anh hết bel , Chúc Vương hết suy , Quân mãi chad , Nhân hết gay , Trường hết là cậu trai cửa sổ , Hoàng hết gãy , Nhật acquy và Tiến đừng trở thành ông Xiển :))) , quen dell gi thang michael ( chuc anh ban mai auuuuu + heeee heeeee )`,
     `Cha bit noi j , Thoi thi chuc may mot nam moi vui ve , hy vong grip ae chung ta van giu vung su doan ket ( quen dell gi !)`
 ];
 
